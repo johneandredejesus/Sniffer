@@ -1,0 +1,16 @@
+/home/johne/Study/Study/Sniffer/Sniffer/bin/Debug/net5.0/Sniffer
+/home/johne/Study/Study/Sniffer/Sniffer/bin/Debug/net5.0/Sniffer.deps.json
+/home/johne/Study/Study/Sniffer/Sniffer/bin/Debug/net5.0/Sniffer.runtimeconfig.json
+/home/johne/Study/Study/Sniffer/Sniffer/bin/Debug/net5.0/Sniffer.runtimeconfig.dev.json
+/home/johne/Study/Study/Sniffer/Sniffer/bin/Debug/net5.0/Sniffer.dll
+/home/johne/Study/Study/Sniffer/Sniffer/bin/Debug/net5.0/ref/Sniffer.dll
+/home/johne/Study/Study/Sniffer/Sniffer/bin/Debug/net5.0/Sniffer.pdb
+/home/johne/Study/Study/Sniffer/Sniffer/obj/Debug/net5.0/Sniffer.csprojAssemblyReference.cache
+/home/johne/Study/Study/Sniffer/Sniffer/obj/Debug/net5.0/Sniffer.GeneratedMSBuildEditorConfig.editorconfig
+/home/johne/Study/Study/Sniffer/Sniffer/obj/Debug/net5.0/Sniffer.AssemblyInfoInputs.cache
+/home/johne/Study/Study/Sniffer/Sniffer/obj/Debug/net5.0/Sniffer.AssemblyInfo.cs
+/home/johne/Study/Study/Sniffer/Sniffer/obj/Debug/net5.0/Sniffer.csproj.CoreCompileInputs.cache
+/home/johne/Study/Study/Sniffer/Sniffer/obj/Debug/net5.0/Sniffer.dll
+/home/johne/Study/Study/Sniffer/Sniffer/obj/Debug/net5.0/ref/Sniffer.dll
+/home/johne/Study/Study/Sniffer/Sniffer/obj/Debug/net5.0/Sniffer.pdb
+/home/johne/Study/Study/Sniffer/Sniffer/obj/Debug/net5.0/Sniffer.genruntimeconfig.cache
